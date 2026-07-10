@@ -5,8 +5,8 @@ I am an aspiring **Data Analyst / Scientist** passionate about turning raw, comp
 
 I am currently **open to work** and looking for opportunities where I can apply my analytical mindset, statistical knowledge, and programming skills to drive impactful data decisions.
 
-* 🌍 Based in: **<Prague, Czech Republic>**
-* ✉️ Contact me via: **<max.kubicek@seznam.cz>**
+* 🌍 Based in: **Prague, Czech Republic**
+* ✉️ Contact me via: **max.kubicek@seznam.cz**
 * 💼 Connect on LinkedIn: **[My LinkedIn Profile](<www.linkedin.com/in/max-kubíček-1176b5297>)**
 * ⚡ Fun fact: **I love playing World of Warcraft**
 
