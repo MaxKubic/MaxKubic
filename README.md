@@ -40,4 +40,4 @@ I am currently **open to work** and looking for opportunities where I can apply 
 
 | My Stats | Top Languages |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR-GITHUB-USERNAME>&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR-GITHUB-USERNAME>&layout=compact&theme=radical&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<MaxKubic>&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<MaxKubic>&layout=compact&theme=radical&hide_border=true) |
