@@ -7,7 +7,7 @@ I am currently **open to work** and looking for opportunities where I can apply 
 
 * 🌍 Based in: **Prague, Czech Republic**
 * ✉️ Contact me via: **max.kubicek@seznam.cz**
-* 💼 Connect on LinkedIn: **[My LinkedIn Profile](<www.linkedin.com/in/max-kubíček-1176b5297>)**
+* 💼 Connect on LinkedIn: **[Max Kubíček](<www.linkedin.com/in/max-kubíček-1176b5297>)**
 * ⚡ Fun fact: **I love playing World of Warcraft**
 
 ---
