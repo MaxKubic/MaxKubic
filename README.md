@@ -1,4 +1,4 @@
-# Hi there, I'm <Your Name> 👋
+# Hi there, I'm Max 👋
 
 ## 🚀 About Me
 I am an aspiring **Data Analyst / Scientist** passionate about turning raw, complex datasets into actionable business insights and predictive models. I love uncovering hidden patterns, building interactive dashboards, and using data to solve real-world problems. 
